@@ -1,0 +1,15 @@
+{
+  "name": "adjective",
+  "version": "1.0.0",
+  "description": "adjective battle engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kevin Maze",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "phaser": "^2.6.2"
+  }
+}
